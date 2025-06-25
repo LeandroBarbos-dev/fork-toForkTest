@@ -1,0 +1,26 @@
+ls - listar arquivos
+cd - move entre diretorios
+pwd - mostra diretorio de trabalho
+cat - mostra arquivo no bash
+mkdir - cria diretorio
+git init . - inicia o git no diretorio
+rm -rf - exclui todas pastas e subpastas
+gt status - mostra status do diretorio git
+git add "archive name" - adiciona arquivo no versionamento
+git commit -m "nome" - commita um versionamento
+git config --global user.email "email@gmail.com"
+git config --global user.name "nome"
+git nano - abre editor de texto no terminal
+git log - mostra todos saves
+git diff (nome) - mostra as diferenças do estado atual para o ultimo commit
+git reset (nome) - retira arquivo do versionamento
+git checkout -b secundaria - cria um clone da branch atual para fazer uma secundaria
+git checkout (nome) - troca branch
+git merge secundaria - mesclar branchs atual com a de seu interesse
+git branch -  mostra as branchs
+git branch -D (nome) - deleta a branch
+
+
+
+
+
